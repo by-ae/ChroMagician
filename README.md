@@ -1,6 +1,6 @@
 # ChroMagician
 
-ChroMagician is the desktop companion for [ChroMagic](https://github.com/cursedtoast2/ChroMagic). Plug your Chromatic into your PC to back up cartridges, restore saves, and organize your SD card without taking it out of the handheld.
+ChroMagician is the desktop companion for [ChroMagic](https://github.com/by-ae/ChroMagic). Plug your Chromatic into your PC to back up cartridges, restore saves, and organize your SD card without taking it out of the handheld.
 
 ## Cartridge and SD tools
 

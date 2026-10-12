@@ -7,7 +7,7 @@ import 'package:path/path.dart' as p;
 import 'package:pub_semver/pub_semver.dart';
 
 const appRepository = 'cursedtoast2/ChroMagician';
-const firmwareRepository = 'cursedtoast2/ChroMagic';
+const firmwareRepository = 'by-ae/ChroMagic';
 const stockMcuRepository = 'ModRetro/oss-chromatic-console-mcu';
 const stockFpgaRepository = 'ModRetro/oss-chromatic-console-fpga';
 
